@@ -1,0 +1,11 @@
+name: BK2048
+main: io.github.bbayu123.bk2048.Main
+version: ${project.version}
+author: bbayu
+authors: []
+depend: [BKCommonLib]
+description: Example project for MapDiplays.
+commands:
+    "2048":
+        description: 2048 command.
+        usage: "\u00A76Usage: /<command> get"

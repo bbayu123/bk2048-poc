@@ -1350,7 +1350,7 @@ public class Main extends JavaPlugin {
 			this.activate();
 
 			// Label
-			this.addWidget(new MapWidgetText().setText(this.win ? "You Win!" : "You Lose").setBounds(5, 5, 80, 13));
+			this.addWidget(new MapWidgetText().setText(this.win ? "You Win!" : "Game Over").setBounds(5, 5, 80, 13));
 
 			// Score
 			this.addWidget(

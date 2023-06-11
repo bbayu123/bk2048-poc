@@ -104,7 +104,7 @@
 		<dependency>
 			<groupId>com.bergerkiller.bukkit</groupId>
 			<artifactId>BKCommonLib</artifactId>
-			<version>1.19.3-v3</version>
+			<version>1.19.4-v2</version>
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
